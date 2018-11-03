@@ -1,0 +1,13 @@
+{
+  "showAdsFlag": "1",
+  "InteAdsPartnerPercent": "0#0",
+  "RewardAdsPartnerPercent": "0#0",
+  "adsRewardsHeart": "1000",
+  "AndroidGoogleAdmobAppId": "ca-app-pub-9086043400053523~4680409752",
+  "AndroidGoogleAdmobRewardedVideoAdsId": "4",
+  "AndroidGoogleAdmobInterstitialAdsId": "5",
+  "AndroidFacebookRewardedVideoAdsId": "ca-app-pub-3940256099942544/5224354917",
+  "AndroidFacebookInterstitialAdsId": "ca-app-pub-3940256099942544/1033173712",
+  "AndroidMoPubRewardedVideoAdsId": "16",
+  "AndroidMoPubFullscreenAdsId": "17",
+}
