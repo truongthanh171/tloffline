@@ -1,8 +1,8 @@
 {
   "showAdsFlag": "1",
   "inteAdsDelay":"2",
-  "InteAdsPartnerPercent": "1#1#1#1#1",
-  "RewardAdsPartnerPercent": "1#1#1#1#1",
+  "InteAdsPartnerPercent": "1#1#1",
+  "RewardAdsPartnerPercent": "1#1#1",
   "adsRewardsHeart": "100000",
   "IOS_GG_ADMOB_APP_ADS_ID": "ca-app-pub-9086043400053523~9032065145",
   "IOS_GG_ADMOB_REWARDED_VIDEO_ADS_ID": "ca-app-pub-9086043400053523/2055593256",
